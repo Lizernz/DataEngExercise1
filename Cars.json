@@ -1,0 +1,50 @@
+[
+    {
+        "manufacturer": "Land Rover",
+        "model": "Range Rover Sport",
+        "top_speed": 180,
+        "age": 2
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "Civic",
+        "top_speed": 200,
+        "age": 3
+    },
+    {
+        "manufacturer": "Ford",
+        "model": "Fusion",
+        "top_speed": 210,
+        "age": 5
+    },
+    {
+        "manufacturer": "Skoda",
+        "model": "Scala",
+        "top_speed": 100,
+        "age": 1
+    },
+    {
+        "manufacturer": "Skoda",
+        "model": "Scala",
+        "top_speed": 100,
+        "age": 1
+    },
+    {
+        "manufacturer": "Skoda",
+        "model": "Scala",
+        "top_speed": 100,
+        "age": 1
+    },
+    {
+        "manufacturer": "Skoda",
+        "model": "Scala",
+        "top_speed": 100,
+        "age": 1
+    },
+    {
+        "manufacturer": "Skoda",
+        "model": "Scala",
+        "top_speed": 100,
+        "age": 1
+    }
+]
